@@ -53,9 +53,9 @@ Other steps:
 3. **Shipping adds about 17% to item revenue.** Freight totals 2.19M on 13.18M of items.
 4. **Customers rarely return.** There are 96,203 orders but 93,096 unique customers, about 1.03 orders per customer. The exact repeat rate comes with the RFM analysis.
 5. **Most deliveries are on time.** About 92% of orders arrive by the promised date.
+6. **Revenue is spread across many categories.** The top 5 categories (health_beauty, watches_gifts, bed_bath_table, sports_leisure, computers_accessories) generate about 40% of item revenue, and the top 10 about 62%. No single category exceeds 10%.
 
 ## Coming Soon
-- Revenue by product category
 - Repeat purchase rate and RFM customer segments
 - Impact of late delivery on review scores
 - Worst-performing categories and states for delivery
